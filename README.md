@@ -2,7 +2,7 @@
 
 - 📧 Reach me:
 
-       - Discord: Paweł_W#0282 
+       - Discord: pawel_w
        - Mail: Wladykapa@gmail.com
 <!---
 WladykaPawel/WladykaPawel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

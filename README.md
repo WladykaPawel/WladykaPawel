@@ -10,12 +10,12 @@
 
 ### 💻 Experience  
 <p align="left">
-  <a href="https://legendaryroverteam.prz.edu.pl/">
+  <a href="https://legendary.prz.edu.pl">
     <img src="https://img.shields.io/badge/-Legendary%20Rover%20Team-000000?style=flat&logo=github" alt="Legendary Rover Team">
   </a>
 </p>
 
-- **IT Section Lead** (202X–present)  
+- **IT Section Lead** (2022–present)  
   🔧 Server administration | 🛠️ Internal tools development | 🤖 Mars rover control systems  
 
 ### 🛠️ Tech Stack  
@@ -27,8 +27,6 @@
 
 **DevOps & Cloud:**  
 `Docker` | `Linux` | `Apache/Nginx` 
-
-### 📌 Featured Projects  
 
 ### 🔥 Soft Skills  
 ✔️ Fast learner | ✔️ Problem solver | ✔️ Team leadership | ✔️ Ambitious  

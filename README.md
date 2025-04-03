@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Paweł Władyka 
 
 **`Computer Engineer | Cybersecurity Student | IT Lead @LegendaryRoverTeam`**  
 
@@ -11,7 +11,7 @@
 ### 💻 Experience  
 <p align="left">
   <a href="https://legendary.prz.edu.pl">
-    <img src="https://img.shields.io/badge/-Legendary%20Rover%20Team-000000?style=flat&logo=github" alt="Legendary Rover Team">
+    <img src="https://legendary.prz.edu.pl/wp-content/uploads/2024/06/5F614E7A-5BFD-4AE3-860C-7BC52BF6667E-2048x2048.png" alt="Legendary Rover Team">
   </a>
 </p>
 
